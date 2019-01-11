@@ -1,5 +1,8 @@
 _repo: The-Works-of-Hubert-Howe-Bancroft-Volume-6-History-of-Central-America-Volume-1-1501-1530_58658
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58658-h/images/cover.jpg
 creator:
   author:
     agent_name: Bancroft, Hubert Howe
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/944
     wikipedia: http://en.wikipedia.org/wiki/Hubert_Howe_Bancroft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58658#The-Works-of-Hubert-Howe-Bancroft-Volume-6-History-of-Central-America-Volume-1-1501-1530
 gutenberg_issued: '2019-01-09'
 gutenberg_type: Text
 identifiers:
